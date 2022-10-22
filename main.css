@@ -1,0 +1,38 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-top: 70px;
+    background-image: url(https://media.istockphoto.com/vectors/light-colored-beige-vintage-paper-vector-id959104114?k=20&m=959104114&s=612x612&w=0&h=WDTcSm_eBxX7qAaUZVAuN-LRmImxGQNgocpFobjnYS4=);
+    background-color: #ffffe0;
+    font-size: 20px;
+}
+
+h1 {
+    background-image: url(https://img.freepik.com/premium-photo/dark-wall-halloween-background-concept-scary-background-horror-texture-banner_526818-758.jpg?w=2000);
+    height: 100px;
+    color: white;
+    text-align: center;
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    margin: center;
+    
+}
+
+.question{
+    font-family: chiller;
+    text-align: center;
+    font-size: 50px;
+}
+
+.morse{
+    font-size: 30px
+}
+
+.cipher {
+    line-height: 2em;
+}

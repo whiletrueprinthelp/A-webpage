@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(192, 192, 192);
+}
+button {
+    color: #ff00bf; /*not sure how this can work | okay it didn't work. interesting.*/
+    background-color: rgb(148, 216, 255);
+    border: none;
+    width: 300px;
+    font-size: 25px;
+    cursor: pointer;
+}
